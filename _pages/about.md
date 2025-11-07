@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 I am a **Postdoctoral Fellow** in the **G²OAT (Graphs, Geometry, Optimization, Algorithms, and Topology) Group** at the  
 **Department of Computer Science, Faculty of Electrical Engineering, Czech Technical University in Prague (CTU Prague)**.
 

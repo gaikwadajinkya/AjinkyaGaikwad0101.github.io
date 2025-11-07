@@ -1,8 +1,7 @@
 ---
-permalink: /
-layout: single
+layout: home
 author_profile: true
-title: ""   # keep empty so no big title shows
+title: ""
 ---
 
 I am a **Postdoctoral Fellow** in the **G²OAT (Graphs, Geometry, Optimization, Algorithms, and Topology) Group** at the  

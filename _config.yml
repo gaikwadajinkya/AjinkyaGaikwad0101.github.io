@@ -23,7 +23,7 @@ repository               : "gaikwadajinkya/AjinkyaGaikwad0101.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0289.png"
+  avatar           : "assets/IMG_0289.png"
   name             : "Ajinkya Gaikwad"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc Fellow"

@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow** in the G²OAT (Graphs, Geometry, Optimization, Algorithms, and Topology) Group at the  
-Department of Computer Science, Faculty of Electrical Engineering, Czech Technical University in Prague (CTU Prague).
+I am a Postdoctoral Fellow** in the G²OAT (Graphs, Geometry, Optimization, Algorithms, and Topology) Group at the Department of Computer Science, Faculty of Electrical Engineering, Czech Technical University in Prague (CTU Prague).
 
 My research interests lie broadly in the field of graph algorithms, parameterized complexity, and structural graph theory. Previously, I completed my Ph.D. in Theoretical Computer Science at the Indian Institute of Science Education and Research (IISER), Pune, under the supervision of Prof. Soumen Maity. During my Ph.D., I explored a variety of graph modification and deletion problems with applications in network design, clustering, and data analysis.
 

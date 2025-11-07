@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ajinkya Gaikwad — Research in Graph Algorithms and Parameterized Complexity"
+layout: page
 author_profile: true
 redirect_from: 
   - /about/
@@ -36,5 +36,4 @@ network design, clustering, and data analysis.
 
 - 📍 Prague, Czech Republic  
 - ✉️ [ajinkyag.iiser@gmail.com](mailto:ajinkyag.iiser@gmail.com)  
-- 🔗 [Google Scholar](https://scholar.google.com/citations?user=Q0QDq0AAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-7514-0708) | [arXiv](https://arxiv.org/search/cs?searchtype=author&query=Gaikwad%2C+A) | [ResearchGate](https://www.researchgate.net/profile/Ajinkya-Gaikwad)
 

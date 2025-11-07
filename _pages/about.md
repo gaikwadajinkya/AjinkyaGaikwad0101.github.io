@@ -1,16 +1,16 @@
 ---
-layout: home
-author_profile: true
+permalink: /
 title: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am a **Postdoctoral Fellow** in the **G²OAT (Graphs, Geometry, Optimization, Algorithms, and Topology) Group** at the  
 **Department of Computer Science, Faculty of Electrical Engineering, Czech Technical University in Prague (CTU Prague)**.
 
 My research interests lie broadly in the field of **graph algorithms, parameterized complexity, and structural graph theory**.  
-I work on problems related to **kernelization, clustering, and distance-bounded graph modification**, with a focus on  
-algorithmic meta-theorems and fine-grained complexity.  
-
 Previously, I completed my Ph.D. in **Theoretical Computer Science** at the  
 **Indian Institute of Science Education and Research (IISER), Pune**, under the supervision of **Dr. Soumen Maity**.  
 During my Ph.D., I explored a variety of graph modification and deletion problems with applications in  
@@ -32,4 +32,4 @@ network design, clustering, and data analysis.
 ## Contact
 
 - 📍 Prague, Czech Republic  
-- ✉️ [ajinkyag.iiser@gmail.com](mailto:ajinkyag.iiser@gmail.com)
+- ✉️ [ajinkyag.iiser@gmail.com](mailto:ajinkyag.iiser@gmail.com)  

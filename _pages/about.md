@@ -1,10 +1,8 @@
 ---
 permalink: /
-layout: page
+layout: single
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: ""   # keep empty so no big title shows
 ---
 
 I am a **Postdoctoral Fellow** in the **G²OAT (Graphs, Geometry, Optimization, Algorithms, and Topology) Group** at the  

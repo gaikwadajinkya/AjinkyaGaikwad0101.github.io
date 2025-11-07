@@ -2,7 +2,6 @@
 title: "Teaching Experience"
 collection: teaching
 type: "Undergraduate and Graduate Courses"
-permalink: /teaching/ajinkya-gaikwad
 venue: "IISER Pune, Pune University, Ferguson College"
 date: 2024-01-01
 location: "Pune, India"

@@ -12,10 +12,10 @@ nav_order: 2
 - **Globally Minimal Defensive Alliances: A Parameterized Perspective**  
   *Discrete Applied Mathematics*, Accepted.  
   with Soumen Maity.
-
+  
 - **Parameterized Complexity of Locally Minimal Defensive Alliances**  
-  *Discrete Applied Mathematics*, Vol. 372, pp. 324-340, 2025.
-  [Link](https://www.sciencedirect.com/science/article/pii/S0166218X25002446?via%3Dihub)
+  *Discrete Applied Mathematics*, Vol. 372, pp. 324–340, 2025.  
+  [Link](https://www.sciencedirect.com/science/article/pii/S0166218X25002446?via%3Dihub)  
   with Soumen Maity and Shuvam Kant Tripathi.
 
 - **Structural Parameterizations of the Harmless Set Problem**  

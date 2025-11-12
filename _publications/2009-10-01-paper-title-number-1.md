@@ -14,7 +14,8 @@ nav_order: 2
   with Soumen Maity.
 
 - **Parameterized Complexity of Locally Minimal Defensive Alliances**  
-  *Discrete Applied Mathematics*, Accepted.  
+  *Discrete Applied Mathematics*.
+  [Link](https://www.sciencedirect.com/science/article/pii/S0166218X25002446?via%3Dihub)
   with Soumen Maity and Shuvam Kant Tripathi.
 
 - **Structural Parameterizations of the Harmless Set Problem**  
@@ -50,6 +51,10 @@ nav_order: 2
 ---
 
 ### 🎓 Conference Publications
+
+- **Parameterized Algorithms for Locally Minimal Defensive Alliance**
+  *SOFSEM 2026* (Accepted).
+  with Soumen Maity and Saket Saurabh.
 
 - **Parameterized Algorithms for Editing to Uniform Cluster Graph**  
   *FCT 2025*.  

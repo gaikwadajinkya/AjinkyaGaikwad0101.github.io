@@ -14,7 +14,7 @@ nav_order: 2
   with Soumen Maity.
 
 - **Parameterized Complexity of Locally Minimal Defensive Alliances**  
-  *Discrete Applied Mathematics*.
+  *Discrete Applied Mathematics*, Vol. 372, pp. 324-340, 2025.
   [Link](https://www.sciencedirect.com/science/article/pii/S0166218X25002446?via%3Dihub)
   with Soumen Maity and Shuvam Kant Tripathi.
 

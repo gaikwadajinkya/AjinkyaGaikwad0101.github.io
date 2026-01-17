@@ -14,11 +14,9 @@ redirect_from:
 
 ## Research Visits
 
-- **Institute of Mathematical Sciences (IMSc), Chennai, India**  
-  Research Visit, December 2023
+- **Institute of Mathematical Sciences (IMSc), Chennai, India, December 2023**
 
-- **Institute for Basic Science (IBS), Daejeon, South Korea**  
-  Research Visit, August 2025
+- **Institute for Basic Science (IBS), Daejeon, South Korea, August 2025**
 
 ## Journal Publications
 - Ajinkya Gaikwad and Soumen Maity, **Globally Minimal Defensive Alliances: A Parameterized Perspective**, *Discrete Applied Mathematics*, (Accepted).

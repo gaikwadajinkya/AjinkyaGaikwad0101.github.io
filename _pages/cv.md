@@ -12,6 +12,14 @@ redirect_from:
 - **Indian Institute of Science Education and Research (IISER) Pune, India** — Ph.D. in Mathematics (2019–2025)  
 - **Indian Institute of Science Education and Research (IISER) Pune, India** — B.S.–M.S. Dual Degree (2014–2019)
 
+## Research Visits
+
+- **Institute of Mathematical Sciences (IMSc), Chennai, India**  
+  Research Visit, December 2023
+
+- **Institute for Basic Science (IBS), Daejeon, South Korea**  
+  Research Visit, August 2025
+
 ## Journal Publications
 - Ajinkya Gaikwad and Soumen Maity, **Globally Minimal Defensive Alliances: A Parameterized Perspective**, *Discrete Applied Mathematics*, (Accepted).
 - Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, **Parameterized Complexity of Locally Minimal Defensive Alliances**, *Discrete Applied Mathematics*, (Accepted).

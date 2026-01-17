@@ -46,6 +46,18 @@ redirect_from:
 - Ajinkya Gaikwad, **Parameterized Complexity of s-Club Cluster Edge Deletion: When Is the Diameter Bound Necessary?**  
   [arXiv:2510.07065](https://arxiv.org/abs/2510.07065)
 
+## Talks
+
+- **MaxMin Separation Problems: FPT Algorithms for $s$–$t$ Separator and Odd Cycle Transversal**  
+  *Symposium on Theoretical Aspects of Computer Science (STACS 2025)*,  
+  Jena, Germany, March 2025.  
+  Conference Talk.
+
+- **When Is $\mathcal{T}_{h+1}$-Free Edge Deletion Fixed-Parameter Tractable? Hardness and Approximation**  
+  *Indo-European Conference on Algorithms and Graph Theory*,  
+  Indian Institute of Science Education and Research (IISER), Pune, India, January 2026.  
+  Symposium Talk.
+
 ## Professional Services
 Reviewed research papers for *Discrete Applied Mathematics*, *Algorithmica*, *Theoretical Computer Science*, and conferences such as MFCS, IWOCA, etc.
 

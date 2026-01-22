@@ -10,7 +10,8 @@ nav_order: 2
 ### 📘 Journal Publications
 
 - **Globally Minimal Defensive Alliances: A Parameterized Perspective**  
-  *Discrete Applied Mathematics*, Accepted.  
+  *Discrete Applied Mathematics*
+  [Link](https://www.sciencedirect.com/science/article/pii/S0166218X26000491?dgcid=coauthor) 
   with Soumen Maity.
   
 - **Parameterized Complexity of Locally Minimal Defensive Alliances**  

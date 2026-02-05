@@ -15,7 +15,7 @@ My research interests lie broadly in the field of graph algorithms, parameterize
 
 ## Recent Preprints
 
-- *Hardness and Tractability of $T_{h+1}$-Free Edge Deletion*, with Soumen Maity and Leeja R.<br>
+- *Hardness and Tractability of $T_{h+1}$-Free Edge Deletion*, <br> with Soumen Maity and Leeja R.<br>
   [arXiv:2602.00644](https://arxiv.org/abs/2602.00644)
   
 - *Inclusive and Exclusive Vertex Splitting into Specific Graph Classes: NP Hardness and Algorithms*,  

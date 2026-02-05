@@ -17,7 +17,7 @@ My research interests lie broadly in the field of graph algorithms, parameterize
 
 - *Hardness and Tractability of T_{h+1}-Free Edge Deletion*,
   with Soumen Maity and Leeja R.
-  [arXiv:2602.00644](https://arxiv.org/abs/2602.00644)
+   [arXiv:2602.00644](https://arxiv.org/abs/2602.00644)
   
 - *Inclusive and Exclusive Vertex Splitting into Specific Graph Classes: NP Hardness and Algorithms*,  
   with Hitendra Kumar, S. Padmapriya, Praneet Kumar Patra, Harsh Sanklecha, and Soumen Maity.  

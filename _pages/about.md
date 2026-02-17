@@ -31,4 +31,3 @@ My research interests lie broadly in the field of graph algorithms, parameterize
 
 - 📍 Prague, Czech Republic  
 - ✉️ [ajinkyag.iiser@gmail.com](mailto:ajinkyag.iiser@gmail.com)
-- ✉️ [ajinkya.gaikwad@students.iiserpune.ac.in](mailto:ajinkya.gaikwad@students.iiserpune.ac.in)

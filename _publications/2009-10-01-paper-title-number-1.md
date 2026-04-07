@@ -53,10 +53,11 @@ nav_order: 2
 
 ### 🎓 Conference Publications
 
-- **Parameterized Algorithms for Locally Minimal Defensive Alliance**
-  *SOFSEM 2026* (Accepted).
+- **Parameterized Algorithms for Locally Minimal Defensive Alliance**  
+  *SOFSEM 2026*.  
+  [Link](https://www.springerprofessional.de/en/parameterized-algorithms-for-locally-minimal-defensive-alliance/52058564)  
   with Soumen Maity and Saket Saurabh.
-
+  
 - **Parameterized Algorithms for Editing to Uniform Cluster Graph**  
   *FCT 2025*.  
   [Link](https://link.springer.com/chapter/10.1007/978-3-032-04700-7_13)  

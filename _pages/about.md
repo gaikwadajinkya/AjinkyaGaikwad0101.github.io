@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in the G²OAT (Graphs, Geometry, Optimization, Algorithms, and Topology) Group at the Department of Computer Science, Faculty of Information Technology, Czech Technical University in Prague (CTU Prague), currently under the supervision of Tomáš Valla.
+I am a Postdoctoral Fellow in the [G²OAT](https://ggoat.fit.cvut.cz/members.html) (Graphs, Geometry, Optimization, Algorithms, and Topology) Group at the Department of Computer Science, Faculty of Information Technology, Czech Technical University in Prague (CTU Prague), currently under the supervision of [Tomáš Valla]([https://example.com](https://turing.cz/~tom/)).
 
 My research interests lie broadly in graph algorithms, parameterized complexity, structural graph theory, and algorithmic game theory.
 
-Previously, I completed my Ph.D. in Theoretical Computer Science at the Indian Institute of Science Education and Research (IISER), Pune, under the supervision of Soumen Maity, with Saket Saurabh as co-supervisor. During my Ph.D., I worked on a variety of problems in graph algorithms and parameterized complexity.
+Previously, I completed my Ph.D. in Theoretical Computer Science at the Indian Institute of Science Education and Research (IISER), Pune, under the supervision of [Soumen Maity](https://sites.google.com/site/maitysoumeniiser/home), with [Saket Saurabh](https://sites.google.com/view/sakethome) as co-supervisor. During my Ph.D., I worked on a variety of problems in graph algorithms and parameterized complexity.
 
 ---
 

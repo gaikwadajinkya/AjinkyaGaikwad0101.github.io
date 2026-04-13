@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in the [G²OAT](https://ggoat.fit.cvut.cz/members.html) (Graphs, Geometry, Optimization, Algorithms, and Topology) Group at the Department of Computer Science, Faculty of Information Technology, Czech Technical University in Prague (CTU Prague), currently under the supervision of [Tomáš Valla]([https://example.com](https://turing.cz/~tom/)).
+I am a Postdoctoral Fellow in the [G²OAT](https://ggoat.fit.cvut.cz/members.html) (Graphs, Geometry, Optimization, Algorithms, and Topology) Group at the Department of Computer Science, Faculty of Information Technology, Czech Technical University in Prague (CTU Prague), currently under the supervision of [Tomáš Valla](https://turing.cz/~tom/).
 
 My research interests lie broadly in graph algorithms, parameterized complexity, structural graph theory, and algorithmic game theory.
 

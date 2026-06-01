@@ -17,8 +17,8 @@ Previously, I completed my Ph.D. in Theoretical Computer Science at the Indian I
 
 ## News
 
-- **May 2026:** I am happy to share that my single-author paper *On the Parameterized Complexity of s-Club Cluster
-Edge Deletion* has been accepted to **Journal of Computer and System Sciences (JCSS)**.
+- **May 2026:** I am happy to share that my single-author paper **On the Parameterized Complexity of s-Club Cluster
+Edge Deletion** has been accepted to **Journal of Computer and System Sciences (JCSS)**.
 
 ---
 

@@ -23,7 +23,7 @@ redirect_from:
   August 2025.
 
 ## Journal Publications
-- Ajinkya Gaikwad, **On the Parameterized Complexity of s-Club Cluster Edge Deletion**, * Journal of Computer and System Sciences*, (Accepted).
+- Ajinkya Gaikwad, **On the Parameterized Complexity of s-Club Cluster Edge Deletion**, *Journal of Computer and System Sciences*, (Accepted).
 - Ajinkya Gaikwad and Soumen Maity, **Globally Minimal Defensive Alliances: A Parameterized Perspective**, *Discrete Applied Mathematics*, (Accepted).
 - Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, **Parameterized Complexity of Locally Minimal Defensive Alliances**, *Discrete Applied Mathematics*, (Accepted).
 - Ajinkya Gaikwad and Soumen Maity, **Structural Parameterizations of the Harmless Set Problem**, *Algorithmica*, Vol. 86, 1475–1511, 2024.

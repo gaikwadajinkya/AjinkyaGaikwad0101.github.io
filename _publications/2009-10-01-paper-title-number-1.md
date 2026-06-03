@@ -8,8 +8,9 @@ nav_order: 2
 ---
 
 ### 📘 Journal Publications
-- **On the Parameterized Complexity of s-Club Cluster Edge Deletion**  
-  *Journal of Computer and System Sciences*, (Accepted), 2026.
+- **On the Parameterized Complexity of s-Club Cluster Edge Deletion**<br>
+  *Journal of Computer and System Sciences*, (Accepted), 2026.<br>
+  Single-author paper.
 
 - **Globally Minimal Defensive Alliances: A Parameterized Perspective**
   *Discrete Applied Mathematics*, Volume 385, Pages 86–99, 2026.

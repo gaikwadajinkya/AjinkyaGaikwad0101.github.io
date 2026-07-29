@@ -7,106 +7,94 @@ nav: true
 nav_order: 2
 ---
 
-### 📘 Journal Publications
-- **On the Parameterized Complexity of s-Club Cluster Edge Deletion**<br>
-  *Journal of Computer and System Sciences*, (Accepted), 2026.<br>
-  Single-author paper.
+### 🎓 Publications
 
-- **Globally Minimal Defensive Alliances: A Parameterized Perspective**
-  *Discrete Applied Mathematics*, Volume 385, Pages 86–99, 2026.
-  [Link](https://www.sciencedirect.com/science/article/pii/S0166218X26000491)
-  with Soumen Maity.
-  
-- **Parameterized Complexity of Locally Minimal Defensive Alliances**  
-  *Discrete Applied Mathematics*, Vol. 372, pp. 324–340, 2025.  
-  [Link](https://www.sciencedirect.com/science/article/pii/S0166218X25002446?via%3Dihub)  
-  with Soumen Maity and Shuvam Kant Tripathi.
+- **On the Parameterized Complexity of s-Club Cluster Edge Deletion** <br>
+  **Authors:** Ajinkya Gaikwad <br>
+  **Conference:** - <br>
+  **Journal Version:** Journal of Computer and System Sciences <br>
+  **Link:** [arXiv](https://arxiv.org/abs/2510.07065)
 
-- **Structural Parameterizations of the Harmless Set Problem**  
-  *Algorithmica*, Vol. 86, pp. 1475–1511, 2024.  
-  [Link](https://link.springer.com/article/10.1007/s00453-023-01199-9)  
-  with Soumen Maity.
+- **Inclusive and Exclusive Vertex Splitting into Specific Graph Classes: NP Hardness and Algorithms**  <br>
+  **Authors:** Ajinkya Gaikwad, Hitendra Kumar, S. Padmapriya, Praneet Kumar Patra, Harsh Sanklecha, Soumen Maity <br>
+  **Conference:** ICTCS 2026 <br>
+  **Journal Version:** - <br>
+  **Link:** [arXiv](https://arxiv.org/abs/2510.26938)
 
-- **Offensive Alliances in Graphs**  
-  *Theoretical Computer Science*, Vol. 989, Article 114401, 2024.  
-  [Link](https://www.sciencedirect.com/science/article/abs/pii/S0304397524000161?via%3Dihub)  
-  with Soumen Maity.
+- **Globally Minimal Defensive Alliances: A Parameterized Perspective** <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity  <br>
+  **Conference:** - <br>
+  **Journal Version:** Discrete Applied Mathematics <br>
+  **Link:** [Paper](https://www.sciencedirect.com/science/article/pii/S0166218X26000491)
 
-- **Defensive Alliances in Graphs**  
-  *Theoretical Computer Science*, Vol. 928, pp. 136–150, 2022.  
-  [Link](https://www.sciencedirect.com/science/article/pii/S0304397522003917)  
-  with Soumen Maity.
+- **Parameterized Algorithms for Locally Minimal Defensive Alliance**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity, Saket Saurabh  <br>
+  **Conference:** SOFSEM 2026  <br>
+  **Journal Version:** -  <br>
+  **Link:** [arXiv](https://arxiv.org/abs/2208.03491)
 
-- **Further Parameterized Algorithms for the F-free Edge Deletion Problem**  
-  *Theoretical Computer Science*, Vol. 933, pp. 125–137, 2022.  
-  [Link](https://www.sciencedirect.com/science/article/pii/S0304397522005205)  
-  with Soumen Maity.
+- **MaxMin Separation Problems: FPT Algorithms for st-Separator and Odd Cycle Transversal**  <br>
+  **Authors:** Ajinkya Gaikwad, Hitendra Kumar, Soumen Maity, Saket Saurabh, Roohani Sharma  <br>
+  **Conference:** STACS 2025  <br>
+  **Journal Version:** -  <br>
+  **Link:** [arXiv](https://arxiv.org/abs/2502.10449)
 
-- **Parameterized Complexity of Satisfactory Partition Problem**  
-  *Theoretical Computer Science*, Vol. 907, pp. 113–127, 2022.  
-  [Link](https://www.sciencedirect.com/science/article/pii/S0304397522000391)  
-  with Soumen Maity and Shuvam Kant Tripathi.
+- **Parameterized Algorithms for Editing to Uniform Cluster Graph**  <br>
+  **Authors:** Ajinkya Gaikwad, Hitendra Kumar, Soumen Maity  <br>
+  **Conference:** FCT 2025  <br>
+  **Journal Version:** - <br>
+  **Link:** [arXiv](https://arxiv.org/abs/2404.10023)
 
-- **Globally Minimal Defensive Alliances**  
-  *Information Processing Letters*, Vol. 177, Article 106253, 2022.  
-  [Link](https://www.sciencedirect.com/science/article/abs/pii/S0020019022000102)  
-  with Soumen Maity.
+- **Parameterized Complexity of the Tₕ₊₁-Free Edge Deletion Problem**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity, Leeja R <br>
+  **Conference:** FCT 2023  <br>
+  **Journal Version:** -  <br>
+  **Link:** [arXiv](https://arxiv.org/abs/2602.00644)
 
----
+- **Structural Parameterizations of the Harmless Set Problem**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity  <br>
+  **Conference:** WALCOM 2022  <br>
+  **Journal Version:** Algorithmica <br>
+  **Link:** [Full version](https://link.springer.com/article/10.1007/s00453-023-01199-9)
 
-### 🎓 Conference Publications
+- **Parameterized Intractability of Defensive Alliance Problem**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity, Shuvam Kant Tripathi  <br>
+  **Conference:** CALDAM 2022  <br>
+  **Journal Version:** Theoretical Computer Science  <br>
+  **Link:** [Full version](https://www.sciencedirect.com/science/article/pii/S0304397522003917)
 
-- **Parameterized Algorithms for Locally Minimal Defensive Alliance**  
-  *SOFSEM 2026*.  
-  [Link](https://www.springerprofessional.de/en/parameterized-algorithms-for-locally-minimal-defensive-alliance/52058564)  
-  with Soumen Maity and Saket Saurabh.
-  
-- **Parameterized Algorithms for Editing to Uniform Cluster Graph**  
-  *FCT 2025*.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-032-04700-7_13)  
-  with Hitendra Kumar and Soumen Maity.
+- **On Structural Parameterizations of the Offensive Alliance Problem**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity  <br>
+  **Conference:** COCOA 2021  <br>
+  **Journal Version:** Theoretical Computer Science <br>
+  **Link:** [Full version](https://www.sciencedirect.com/science/article/abs/pii/S0304397524000161)
 
-- **MaxMin Separation Problems: FPT Algorithms for st-Separator and Odd Cycle Transversal**  
-  *STACS 2025*.  
-  [Link](https://drops.dagstuhl.de/storage/00lipics/lipics-vol327-stacs2025/LIPIcs.STACS.2025.36/LIPIcs.STACS.2025.36.pdf)  
-  with Hitendra Kumar, Soumen Maity, Saket Saurabh, and Roohani Sharma.
+- **The (Balanced) Satisfactory Partition Problem**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity, Shuvam Kant Tripathi  <br>
+  **Conference:** SOFSEM 2021  <br>
+  **Journal Version:** Theoretical Computer Science <br>
+  **Link:** [Full version](https://www.sciencedirect.com/science/article/pii/S0304397522000391)
 
-- **Parameterized Complexity of the \(T_{h+1}\)-Free Edge Deletion Problem**  
-  *FCT 2023*, LNCS Vol. 14292, pp. 221–233, 2023.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-031-43587-4_16)  
-  with Soumen Maity.
+- **Parameterized Complexity of Locally Minimal Defensive Alliance**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity, Shuvam Kant Tripathi  <br>
+  **Conference:** CALDAM 2021  <br>
+  **Journal/Full Version:** Discrete Applied Mathematics <br>
+  **Link:** [Full version](https://www.sciencedirect.com/science/article/pii/S0166218X25002446)
 
-- **On the Harmless Set Problem Parameterized by Treewidth**  
-  *WALCOM 2022*, LNCS Vol. 13174, pp. 227–238, 2022.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-030-95018-7_22)  
-  with Soumen Maity.
+- **Further Parameterized Algorithms for the F-free Edge Deletion Problem**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity  <br>
+  **Conference:** - <br>
+  **Journal/Full Version:** Theoretical Computer Science <br>
+  **Link:** [Paper](https://www.sciencedirect.com/science/article/pii/S0304397522005205)
 
-- **Parameterized Intractability of Defensive Alliance Problem**  
-  *CALDAM 2022*, LNCS Vol. 13179, pp. 279–291, 2022.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-030-95018-7_22)  
-  with Soumen Maity and Shuvam Kant Tripathi.
+- **Parameterized Complexity of Defensive and Offensive Alliances in Graphs**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity, Shuvam Kant Tripathi  <br>
+  **Conference:** ICDCIT 2021  <br>
+  **Journal/Full Version:** - <br>
+  **Link:** -
 
-- **On Structural Parameterizations of the Offensive Alliance Problem**  
-  *COCOA 2021*, LNCS Vol. 13135, pp. 579–586, 2021.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-030-92681-6_45)  
-  with Soumen Maity.
-
-- **The Balanced Satisfactory Partition Problem**  
-  *SOFSEM 2021*, LNCS Vol. 12607, pp. 322–336, 2021.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-030-67731-2_23)  
-  with Soumen Maity and Shuvam Kant Tripathi.
-
-- **Parameterized Complexity of Locally Minimal Defensive Alliance**  
-  *CALDAM 2021*, LNCS Vol. 12601, pp. 135–148, 2021.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-030-67899-9_11)  
-  with Soumen Maity and Shuvam Kant Tripathi.
-
-- **Parameterized Complexity of Defensive and Offensive Alliances in Graphs**  
-  *ICDCIT 2021*, LNCS Vol. 12582, pp. 175–187, 2021.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-030-65621-8_11)  
-  with Soumen Maity and Shuvam Kant Tripathi.
-
-- **Parameterized Complexity of Satisfactory Partition Problem**  
-  *COCOA 2020*, LNCS Vol. 12577, pp. 76–90, 2020.  
-  [Link](https://link.springer.com/chapter/10.1007/978-3-030-64843-5_6)  
-  with Soumen Maity and Shuvam Kant Tripathi.
+- **Parameterized Complexity of Satisfactory Partition Problem**  <br>
+  **Authors:** Ajinkya Gaikwad, Soumen Maity, Shuvam Kant Tripathi  <br>
+  **Conference:** COCOA 2020  <br>
+  **Journal/Full Version:** -  <br>
+  **Link:** [arXiv](https://arxiv.org/abs/2007.14339)

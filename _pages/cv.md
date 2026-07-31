@@ -34,6 +34,8 @@ redirect_from:
 - Ajinkya Gaikwad and Soumen Maity, **Globally Minimal Defensive Alliances**, *Information Processing Letters*, Vol. 177, 106253, 2022.
 
 ## Conference Publications
+
+-Ajinkya Gaikwad, Hitendra Kumar, S. Padmapriya, Praneet Kumar Patra, Harsh Sanklecha, and Soumen Maity, **Inclusive and Exclusive Vertex Splitting into Specific Graph Classes: NP Hardness and Algorithms**, ICTCS 2026.
 - Ajinkya Gaikwad, Soumen Maity and Saket Saurabh, **Parameterized Algorithms for Locally Minimal Defensive Alliance**, SOFSEM 2026.
 - Ajinkya Gaikwad, Hitendra Kumar and Soumen Maity, **Parameterized Algorithms for Editing to Uniform Cluster Graph**, FCT 2025.
 - Ajinkya Gaikwad, Hitendra Kumar, Soumen Maity, Saket Saurabh and Roohani Sharma, **MaxMin Separation Problems: FPT Algorithms for st-Separator and Odd Cycle Transversal**, STACS 2025.

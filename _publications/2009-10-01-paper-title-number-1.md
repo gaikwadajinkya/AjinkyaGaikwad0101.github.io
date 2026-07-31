@@ -12,7 +12,7 @@ nav_order: 2
 - **On the Parameterized Complexity of s-Club Cluster Edge Deletion** <br>
   **Authors:** Ajinkya Gaikwad <br>
   **Conference:** - <br>
-  **Journal Version:** Journal of Computer and System Sciences <br>
+  **Journal Version:** Journal of Computer and System Sciences 2026 <br>
   **Link:** [arXiv](https://arxiv.org/abs/2510.07065)
 
 - **Inclusive and Exclusive Vertex Splitting into Specific Graph Classes: NP Hardness and Algorithms**  <br>

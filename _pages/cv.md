@@ -48,12 +48,6 @@ redirect_from:
 - Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, **Parameterized Complexity of Defensive and Offensive Alliances in Graphs**, ICDCIT 2021, LNCS Vol. 12582, 175–187, 2021.
 - Ajinkya Gaikwad, Soumen Maity and Shuvam Kant Tripathi, **Parameterized Complexity of Satisfactory Partition Problem**, COCOA 2020, LNCS Vol. 12577, 76–90, 2020.
 
-## Preprints
-- Ajinkya Gaikwad, Hitendra Kumar, S. Padmapriya, Praneet Kumar Patra, Harsh Sanklecha, Soumen Maity, **Inclusive and Exclusive Vertex Splitting into Specific Graph Classes: NP Hardness and Algorithms**.  
-  [arXiv:2510.26938](https://arxiv.org/abs/2510.26938)
-- Ajinkya Gaikwad, **Parameterized Complexity of s-Club Cluster Edge Deletion: When Is the Diameter Bound Necessary?**  
-  [arXiv:2510.07065](https://arxiv.org/abs/2510.07065)
-
 ## Talks
 
 - **MaxMin Separation Problems: FPT Algorithms for $s$–$t$ Separator and Odd Cycle Transversal**  

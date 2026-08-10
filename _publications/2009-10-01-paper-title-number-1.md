@@ -42,13 +42,13 @@ nav_order: 2
 - **Parameterized Algorithms for Editing to Uniform Cluster Graph**  <br>
   **Authors:** Ajinkya Gaikwad, Hitendra Kumar, Soumen Maity  <br>
   **Conference:** FCT 2025  <br>
-  **Journal Version:** - <br>
+  **Journal Version:** Theoretical Computer Science  <br>
   **Link:** [arXiv](https://arxiv.org/abs/2404.10023)
 
 - **Parameterized Complexity of the Tₕ₊₁-Free Edge Deletion Problem**  <br>
   **Authors:** Ajinkya Gaikwad, Soumen Maity, Leeja R <br>
   **Conference:** FCT 2023  <br>
-  **Journal Version:** -  <br>
+  **Journal Version:** Theoretical Computer Science  <br>
   **Link:** [arXiv](https://arxiv.org/abs/2602.00644)
 
 - **Structural Parameterizations of the Harmless Set Problem**  <br>

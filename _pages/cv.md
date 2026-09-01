@@ -52,7 +52,7 @@ redirect_from:
 
 - Ajinkya Gaikwad, Jan Pokorný, and Tomáš Valla, **Parameterized Complexity of Edge-Constrained Graph Partitioning**.
 - Ajinkya Gaikwad, Dušan Knop, and Tomáš Valla, **Parameterized Complexity of Connected Network Microaggregation: The Role of Cluster Size**.
-- Ajinkya Gaikwad, **Kernelization of 2-Club Cluster Edge Deletion on Interval Graphs **.
+- Ajinkya Gaikwad, **Kernelization of 2-Club Cluster Edge Deletion on Interval Graphs**.
 
 ## Talks
 

@@ -89,8 +89,23 @@ redirect_from:
 Reviewed research papers for *Discrete Applied Mathematics*, *Algorithmica*, *Theoretical Computer Science*, and conferences such as MFCS, IWOCA, etc.
 
 ## Teaching
-- **Teaching Assistant:** *Linear Algebra*, Pune University (Fall 2024); *Graph Theory*, NPTEL (Spring 2024), IISER Pune (Spring & Fall 2021); *Graph Theoretic Algorithms and Combinatorics*, Ferguson College (Fall 2023, Fall 2022, Spring 2022, Spring & Summer 2021).
-- **Lecturer:** *Ramsey Theory*, Pune University (Spring 2024); *Combinatorics*, Ferguson College (Fall 2023).
+
+- **Lecture Series**, Pune University — *Ramsey Theory* (Spring 2024).  
+  [Notes](https://drive.google.com/file/d/1dniEPAMZ_zEasaQzOmsIKJ67wtkuS13X/view?usp=drivesdk)
+
+- **Lecture Series**, Ferguson College — *Combinatorics* (Fall 2023).
+
+- **Teaching Assistant**, Pune University — *Linear Algebra* (Fall 2024).  
+  [Notes](https://drive.google.com/file/d/1dniEPAMZ_zEasaQzOmsIKJ67wtkuS13X/view?usp=drivesdk)
+
+- **Teaching Assistant**, NPTEL — *Graph Theory* (Spring 2024).  
+  [Notes](https://drive.google.com/drive/folders/1tiWR6-WBJZ6NcHxYPMOoBhOep40W-xW-), [Sessions](https://youtube.com/playlist?list=PLBcvEZ9vsXzI&si=28E8Sma5uYZNOd91)
+
+- **Teaching Assistant**, Ferguson College — *Graph Theoretic Algorithms and Combinatorics*  
+  Fall 2023, Fall 2022, Spring 2022, Spring & Summer 2021.
+
+- **Teaching Assistant**, IISER Pune — *Graph Theory* (Spring & Fall 2021).  
+  [Homeworks](https://drive.google.com/file/d/1PnsN5_RmbSB6vei5ka8SXBxY7uzNQCFh/view?usp=drivesdk)
 
 ## Fellowships and Awards
 - Best PhD Thesis Award, Department of Mathematics, IISER Pune (2025)

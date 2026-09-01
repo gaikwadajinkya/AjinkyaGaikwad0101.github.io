@@ -50,15 +50,40 @@ redirect_from:
 
 ## Talks
 
-- **MaxMin Separation Problems: FPT Algorithms for $s$–$t$ Separator and Odd Cycle Transversal**  
-  *Symposium on Theoretical Aspects of Computer Science (STACS 2025)*,  
-  Jena, Germany, March 2025.  
+- **Inclusive and Exclusive Vertex Splitting into Specific Graph Classes: NP Hardness and Algorithms**  
+  *27th Italian Conference on Theoretical Computer Science (ICTCS)*,  
+  Udine, Italy, September 2026.  
+  Conference Talk.
+
+- **Parameterized Algorithms for Locally Minimal Defensive Alliance** (Online)  
+  *51st International Conference on Current Trends in Theory and Practice of Computer Science (SOFSEM)*,  
+  Kraków, Poland, February 2026.  
   Conference Talk.
 
 - **When Is $\mathcal{T}_{h+1}$-Free Edge Deletion Fixed-Parameter Tractable? Hardness and Approximation**  
   *Indo-European Conference on Algorithms and Graph Theory*,  
   Indian Institute of Science Education and Research (IISER), Pune, India, January 2026.  
   Symposium Talk.
+
+- **MaxMin Separation Problems: FPT Algorithms for $s$–$t$ Separator and Odd Cycle Transversal**  
+  *42nd Symposium on Theoretical Aspects of Computer Science (STACS)*,  
+  Jena, Germany, March 2025.  
+  Conference Talk.
+
+- **Parameterized Complexity of the $\mathcal{T}_{h+1}$-Free Edge Deletion Problem** (Online)  
+  *24th International Symposium on Fundamentals of Computation Theory (FCT)*,  
+  Trier, Germany, September 2023.  
+  Conference Talk.
+
+- **Parameterized Intractability of Defensive Alliance Problem** (Online)  
+  *8th Annual International Conference on Algorithms and Discrete Applied Mathematics (CALDAM)*,  
+  Pondicherry University, India, 2022.  
+  Conference Talk.
+
+- **Parameterized Complexity of Satisfactory Partition Problem** (Online)  
+  *14th Annual International Conference on Combinatorial Optimization and Applications (COCOA)*,  
+  Dallas, Texas, USA, December 2020.  
+  Conference Talk.
 
 ## Professional Services
 Reviewed research papers for *Discrete Applied Mathematics*, *Algorithmica*, *Theoretical Computer Science*, and conferences such as MFCS, IWOCA, etc.

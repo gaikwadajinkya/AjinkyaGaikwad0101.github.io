@@ -86,8 +86,7 @@ redirect_from:
   Conference Talk.
 
 ## Professional Services
-Reviewed research papers for *Discrete Applied Mathematics*, *Algorithmica*, *Theoretical Computer Science*, and conferences such as MFCS, IWOCA, etc.
-
+Reviewed research papers for *Journal of Computer and System Sciences*, *Discrete Applied Mathematics*, *Algorithmica*, *Theoretical Computer Science*, *Information Processing Letters* and conferences such as MFCS, IWOCA, ISAAC etc.
 ## Teaching
 
 - **Lecture Series**, Pune University — *Ramsey Theory* (Spring 2024).  

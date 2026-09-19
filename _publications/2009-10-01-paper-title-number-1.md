@@ -36,7 +36,7 @@ nav_order: 2
 - **MaxMin Separation Problems: FPT Algorithms for st-Separator and Odd Cycle Transversal**  <br>
   **Authors:** Ajinkya Gaikwad, Hitendra Kumar, Soumen Maity, Saket Saurabh, Roohani Sharma  <br>
   **Conference:** STACS 2025  <br>
-  **Journal Version:** -  <br>
+  **Journal Version:** SIDMA  <br>
   **Link:** [arXiv](https://arxiv.org/abs/2502.10449)
 
 - **Parameterized Algorithms for Editing to Uniform Cluster Graph**  <br>
